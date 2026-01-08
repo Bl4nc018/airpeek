@@ -1,0 +1,14 @@
+# IDEs
+.idea/
+*.iml
+
+# Python
+__pycache__/
+.venv/
+
+# Android / Gradle
+.gradle/
+build/
+
+# Database binaries
+*.exe
