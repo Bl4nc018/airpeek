@@ -181,14 +181,3 @@ const val BASE_URL = "http://10.0.2.2:8000/"
 1. Comprobar que el server está siendo ejecutado (`python manage.py runserver`)
 2. Tener el emulador de Android Studio iniciado.
 3. Pulsar **Run ▶️** en Android Studio.
-
----
-
-### Desarrollado por:
-
-<p align="left">
-   <a href="https://github.com/Bl4nc018">
-      <img src="https://avatars.githubusercontent.com/u/92156488?s=400&u=1302f75511bad4df69803bf7b66443a1a8364b60&v=4" width=115><br>
-      <sub>Ania</sub>
-   </a>
-</p>
